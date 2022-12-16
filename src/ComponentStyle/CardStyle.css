@@ -1,0 +1,64 @@
+
+.CardContainer {
+    background: transparent;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.CardContainer h2 {
+    color: white;
+    text-align: center;
+    background:#1E6091 ;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 10px;
+    border-radius: 25px;
+    border: 4px solid  black ;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.cardTittle {
+    margin-top: 20px;
+    width: 85%;
+    padding: 2px;
+    
+
+
+}
+
+
+.ArrowContainer {
+    margin-bottom: 30px;
+}
+
+.ListContainer {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 5px;
+    padding-bottom: 15px;
+    border: 4px solid  black ;
+    border-radius: 25px;
+    background: #52B69A;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    height: 40vh;
+    overflow-y: scroll;
+}
+
+.ListContainer button {
+    margin-top: 10px;
+    width: 80%;
+    background: #1E6091;
+    border: 4px solid black ;
+    border-radius: 25px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
