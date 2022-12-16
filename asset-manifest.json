@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/EzEng/static/css/main.5f8c6c4d.css",
+    "main.js": "/EzEng/static/js/main.366ccda4.js",
+    "static/media/Ornamen.png": "/EzEng/static/media/Ornamen.a00c6d947daf65366cbe.png",
+    "static/media/song.mp3": "/EzEng/static/media/song.660c595a34d5746bfa24.mp3",
+    "static/media/lampu.png": "/EzEng/static/media/lampu.1569959c55a3ce7e63dd.png",
+    "static/media/Ilustrasi1.png": "/EzEng/static/media/Ilustrasi1.c4319f2877855ed0b6e5.png",
+    "static/media/Ilustrasi2.png": "/EzEng/static/media/Ilustrasi2.f52c4b6f1ae0ec72115d.png",
+    "static/media/Ilustrasi3.png": "/EzEng/static/media/Ilustrasi3.59e1b2fb4c8e00eb3872.png",
+    "static/media/profil.jpg": "/EzEng/static/media/profil.7c22e24f8d596218c6fa.jpg",
+    "static/media/buku.png": "/EzEng/static/media/buku.51b7edfa7fee1705eda9.png",
+    "static/media/Tittle.png": "/EzEng/static/media/Tittle.739ce9572c9655d1b3cd.png",
+    "static/media/quiz.png": "/EzEng/static/media/quiz.5bb5f4622070c18dc3d0.png",
+    "static/media/video.png": "/EzEng/static/media/video.3672855c9c4515acad79.png",
+    "static/media/play.png": "/EzEng/static/media/play.27105742ad45bf244d0d.png",
+    "static/media/ArrowRight.svg": "/EzEng/static/media/ArrowRight.bd93b37f2a36cf889e90ad965f69c084.svg",
+    "static/media/ArrowLeft.svg": "/EzEng/static/media/ArrowLeft.5a4a6dad96948e45137f3b8ef8407327.svg",
+    "static/media/icon.png": "/EzEng/static/media/icon.2d28e029b01c8973f367.png",
+    "static/media/unsur.png": "/EzEng/static/media/unsur.6ed1c2fe20728d3eb4f1.png",
+    "static/media/settingNavbar.svg": "/EzEng/static/media/settingNavbar.187716ed92684bb60917d19e80206463.svg",
+    "static/media/InfoButton.png": "/EzEng/static/media/InfoButton.f60c12cc25d1f3e5154e.png",
+    "static/media/XIcon.svg": "/EzEng/static/media/XIcon.85818734cfafeee44bb18c3f4eb5a079.svg",
+    "static/media/menu.svg": "/EzEng/static/media/menu.6123894f9978b63b83ce63ff440fa31e.svg",
+    "static/media/sfx.svg": "/EzEng/static/media/sfx.05fe70924b8151e43dad9c3b743c2be8.svg",
+    "static/media/music1.svg": "/EzEng/static/media/music1.6f23911c10b61d2d20e60e4226a5d294.svg",
+    "static/media/sfx1.svg": "/EzEng/static/media/sfx1.a0775fcc40fb53efcb5cad4d1158a370.svg",
+    "static/media/music.svg": "/EzEng/static/media/music.bc693f0a17c324371f35b799c130a281.svg",
+    "static/media/homeIcon.svg": "/EzEng/static/media/homeIcon.76f5f619ffa313c1efb4dcd881083fbd.svg",
+    "static/media/sfx.mp3": "/EzEng/static/media/sfx.e0d5f54546859eb72328.mp3",
+    "index.html": "/EzEng/index.html",
+    "main.5f8c6c4d.css.map": "/EzEng/static/css/main.5f8c6c4d.css.map",
+    "main.366ccda4.js.map": "/EzEng/static/js/main.366ccda4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8c6c4d.css",
+    "static/js/main.366ccda4.js"
+  ]
+}
