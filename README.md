@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-Project made for assignment purpose, feel free to pull.
+Tugas KIK 
+
+Pengembangan Aplikasi Android Pembelajaran
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
