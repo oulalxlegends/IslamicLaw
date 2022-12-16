@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IslamicLaw/static/css/main.5f8c6c4d.css",
-    "main.js": "/IslamicLaw/static/js/main.c76b7ea1.js",
+    "main.css": "/IslamicLaw/static/css/main.961d1524.css",
+    "main.js": "/IslamicLaw/static/js/main.2dba85e5.js",
     "static/media/Ornamen.png": "/IslamicLaw/static/media/Ornamen.a00c6d947daf65366cbe.png",
     "static/media/song.mp3": "/IslamicLaw/static/media/song.660c595a34d5746bfa24.mp3",
     "static/media/lampu.png": "/IslamicLaw/static/media/lampu.1569959c55a3ce7e63dd.png",
@@ -9,15 +9,15 @@
     "static/media/Ilustrasi2.png": "/IslamicLaw/static/media/Ilustrasi2.f52c4b6f1ae0ec72115d.png",
     "static/media/Ilustrasi3.png": "/IslamicLaw/static/media/Ilustrasi3.59e1b2fb4c8e00eb3872.png",
     "static/media/profil.jpg": "/IslamicLaw/static/media/profil.7c22e24f8d596218c6fa.jpg",
-    "static/media/buku.png": "/IslamicLaw/static/media/buku.51b7edfa7fee1705eda9.png",
+    "static/media/unsur.png": "/IslamicLaw/static/media/unsur.65db4a5b6c23ff77d73a.png",
+    "static/media/buku.png": "/IslamicLaw/static/media/buku.e603a017b4db17c35aeb.png",
     "static/media/Tittle.png": "/IslamicLaw/static/media/Tittle.739ce9572c9655d1b3cd.png",
-    "static/media/quiz.png": "/IslamicLaw/static/media/quiz.5bb5f4622070c18dc3d0.png",
-    "static/media/video.png": "/IslamicLaw/static/media/video.3672855c9c4515acad79.png",
     "static/media/play.png": "/IslamicLaw/static/media/play.27105742ad45bf244d0d.png",
+    "static/media/quiz.png": "/IslamicLaw/static/media/quiz.c625aec6e920aec3e9f9.png",
+    "static/media/video.png": "/IslamicLaw/static/media/video.0e71950c05d5e700b781.png",
     "static/media/ArrowRight.svg": "/IslamicLaw/static/media/ArrowRight.bd93b37f2a36cf889e90ad965f69c084.svg",
     "static/media/ArrowLeft.svg": "/IslamicLaw/static/media/ArrowLeft.5a4a6dad96948e45137f3b8ef8407327.svg",
     "static/media/icon.png": "/IslamicLaw/static/media/icon.2d28e029b01c8973f367.png",
-    "static/media/unsur.png": "/IslamicLaw/static/media/unsur.6ed1c2fe20728d3eb4f1.png",
     "static/media/settingNavbar.svg": "/IslamicLaw/static/media/settingNavbar.187716ed92684bb60917d19e80206463.svg",
     "static/media/InfoButton.png": "/IslamicLaw/static/media/InfoButton.f60c12cc25d1f3e5154e.png",
     "static/media/XIcon.svg": "/IslamicLaw/static/media/XIcon.85818734cfafeee44bb18c3f4eb5a079.svg",
@@ -29,11 +29,11 @@
     "static/media/homeIcon.svg": "/IslamicLaw/static/media/homeIcon.76f5f619ffa313c1efb4dcd881083fbd.svg",
     "static/media/sfx.mp3": "/IslamicLaw/static/media/sfx.e0d5f54546859eb72328.mp3",
     "index.html": "/IslamicLaw/index.html",
-    "main.5f8c6c4d.css.map": "/IslamicLaw/static/css/main.5f8c6c4d.css.map",
-    "main.c76b7ea1.js.map": "/IslamicLaw/static/js/main.c76b7ea1.js.map"
+    "main.961d1524.css.map": "/IslamicLaw/static/css/main.961d1524.css.map",
+    "main.2dba85e5.js.map": "/IslamicLaw/static/js/main.2dba85e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f8c6c4d.css",
-    "static/js/main.c76b7ea1.js"
+    "static/css/main.961d1524.css",
+    "static/js/main.2dba85e5.js"
   ]
 }
